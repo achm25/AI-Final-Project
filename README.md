@@ -1,5 +1,4 @@
-# IE-hw1
-Internet Engineering homework
+# AI final projec
 This is AI final project using dart and flutter
 
 You can play othello and compete with artificial intelligence.
